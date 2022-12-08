@@ -1,6 +1,6 @@
 
 file_name = 'day_2.txt'
-# file_name = 'test.txt'
+# file_name = 'test.txt.txt'
 
 
 # for opponent 
