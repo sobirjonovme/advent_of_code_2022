@@ -1,6 +1,6 @@
 
 
-# file_name = 'test.txt.txt'
+# file_name = 'test.txt'
 file_name = 'day_5.txt'
 
 with open(file_name, 'r') as file:

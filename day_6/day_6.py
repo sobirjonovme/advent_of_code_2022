@@ -1,5 +1,5 @@
 
-# file_name = 'test.txt.txt'
+# file_name = 'test.txt'
 file_name = 'day_6.txt'
 
 

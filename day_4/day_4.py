@@ -1,6 +1,6 @@
 
 file_name = 'day_4.txt'
-# file_name = 'test.txt.txt'  # test.txt input
+# file_name = 'test.txt'  # test.txt input
 
 
 def get_elves_assignments(line):
